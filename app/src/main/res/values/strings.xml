@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gravity Manipulator</string>
+    <string name="gravity">Change Gravity</string>
+    <string name="reverse">Reverse Gravity</string>
+</resources>

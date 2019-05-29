@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background=" #000000"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/soul"
+        android:layout_width="40dp"
+        android:layout_height="100dp"
+       app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:src="@drawable/soul2"/>
+    <ImageView
+        android:id="@+id/time"
+        android:layout_width="40dp"
+        android:layout_height="100dp"
+        android:src="@drawable/time"
+        android:layout_marginLeft="30dp"
+        />
+    <ImageView
+        android:id="@+id/reality"
+        android:layout_width="40dp"
+        android:layout_height="100dp"
+        android:src="@drawable/reality"
+        android:layout_marginLeft="30dp"
+        />
+    <ImageView
+        android:id="@+id/power"
+        android:layout_width="40dp"
+        android:layout_height="100dp"
+        android:src="@drawable/power"
+        android:layout_marginLeft="30dp"
+        />
+    <ImageView
+        android:id="@+id/mind"
+        android:layout_width="40dp"
+        android:layout_height="100dp"
+        android:src="@drawable/mind"
+        android:layout_marginLeft="30dp"
+        />
+
+    <ImageView
+        android:id="@+id/space"
+        android:layout_width="40dp"
+        android:layout_height="100dp"
+        android:src="@drawable/space"
+        android:layout_marginLeft="30dp"
+        />
+
+
+</LinearLayout>
