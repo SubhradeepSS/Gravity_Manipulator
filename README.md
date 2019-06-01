@@ -1,3 +1,3 @@
 # Gravity Manipulator App
  
- Allows the user to control the gravity of the six Infinity Stones by swipping on the screen.
+ Allows the user to randomly control the gravity of the six Infinity Stones by tapping on the screen.
